@@ -3,8 +3,8 @@
 Bem-vindo ao meu portfólio pessoal! 🚀  
 Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, projetos e trajetória como desenvolvedor.
 
-![Screenshot do Portfólio](./capa.png) <!-- você pode trocar por uma imagem do seu portfólio ou remover -->
-
+## 📸 GIF do Projeto
+![Demonstração do Projeto](./public/assets/portfolio.gif)
 ## 💻 Tecnologias utilizadas
 
 - React
