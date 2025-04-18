@@ -1,8 +1,28 @@
-# React + Vite
+# 🧑‍💻 Thiago Cavaliére — Portfólio Pessoal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao meu portfólio pessoal! 🚀  
+Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, projetos e trajetória como desenvolvedor.
 
-Currently, two official plugins are available:
+![Screenshot do Portfólio](./capa.png) <!-- você pode trocar por uma imagem do seu portfólio ou remover -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 Tecnologias utilizadas
+
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Responsividade com Flexbox e Grid
+- Deploy com Vercel
+
+## 📁 Estrutura do Projeto
+
+```bash
+📦 portfolio/
+ ┣ 📂 public/
+ ┣ 📂 src/
+ ┃ ┣ 📂 components/
+ ┃ ┣ 📂 pages/
+ ┃ ┗ 📜 App.jsx
+ ┣ 📜 index.html
+ ┣ 📜 package.json
+ ┗ 📜 vite.config.js
