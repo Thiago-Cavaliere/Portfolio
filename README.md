@@ -14,15 +14,3 @@ Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, p
 - Responsividade com Flexbox e Grid
 - Deploy com Vercel
 
-## 📁 Estrutura do Projeto
-
-```bash
-📦 portfolio/
- ┣ 📂 public/
- ┣ 📂 src/
- ┃ ┣ 📂 components/
- ┃ ┣ 📂 pages/
- ┃ ┗ 📜 App.jsx
- ┣ 📜 index.html
- ┣ 📜 package.json
- ┗ 📜 vite.config.js
