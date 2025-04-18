@@ -24,15 +24,16 @@ const StyledPag = styled("div")(() => ({
   justifyContent: "start",
   alignItems: "center",
   position: "relative",
-  paddingTop: "250px",
+  paddingTop: "200px",
 }));
 
 const StyledImg = styled("img")(() => ({
   width: "70%",
   borderRadius: "20%",
-  marginLeft: 0,
+  display: "block",
   "@media (max-width: 600px)": {
-    width: "50%", // Imagem menor em telas pequenas
+    width: "50%",
+    margin: "0 auto",
   },
 }));
 
@@ -54,7 +55,7 @@ const StyledSkills = styled("div")(() => ({
   alignItems: "center",
   gap: "20px",
   color: "white",
-  marginTop: "40px",
+  marginTop: "150px",
   flexWrap: "wrap",
 }));
 
@@ -80,7 +81,16 @@ function Pagina() {
       <StarsBackground />
       <Container maxWidth="md">
         <Grid container spacing={2}>
-          <Grid item xs={12} md={5}>
+          <Grid
+            item
+            xs={12}
+            md={5}
+            sx={{
+              display: "flex",
+              flexDirection: "column",
+              alignItems: { xs: "center", md: "flex-start" },
+            }}
+          >
             <StyledImg
               src={Avatar}
               alt="Foto de Thiago Cavaliére, desenvolvedor full stack"
@@ -110,14 +120,14 @@ function Pagina() {
             </Stack>
           </Grid>
           <Grid item xs={12} md={7}>
-            <Typography variant="h1" textAlign="center" color="white">
+            <Typography variant="h2" textAlign="center" color="white">
               Thiago Cavaliére
             </Typography>
             <Typography
               variant="h6"
               textAlign="center"
               color="white"
-              padding="90px"
+              padding="10px"
             >
               <span ref={typedElement}></span>
             </Typography>
@@ -132,7 +142,10 @@ function Pagina() {
           <FaReact style={{ fontSize: 70, color: "#61DBFB" }} />
           <FaGitAlt style={{ fontSize: 70, color: "#F1502F" }} />
           <FaBootstrap style={{ fontSize: 70, color: "#7952B3" }} />
-          <SiTailwindcss style={{ fontSize: 70, color: "#38BDF8" }} alt="Tail"/>
+          <SiTailwindcss
+            style={{ fontSize: 70, color: "#38BDF8" }}
+            alt="Tail"
+          />
         </StyledSkills>
       </Container>
     </StyledPag>
