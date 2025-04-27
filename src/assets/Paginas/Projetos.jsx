@@ -73,12 +73,12 @@ const projetos = [
     descricao: "Site de vendas de peças de moto.",
     link: "https://github.com/Thiago-Cavaliere/E-Commece-Motoreira",
   },
-  // {
-  //   titulo: "Clima Tempo App",
-  //   video: "/videos/projeto5.mp4",
-  //   descricao: "Consulta de clima via API externa.",
-  //   link: "https://github.com/Thiago-Cavaliere/ClimaTempoApp",
-  // },
+  {
+    titulo: "Jogo de Browser (RPG)",
+    video: "/RPG.mp4",
+    descricao: "RPG de browser com React.",
+    link: "https://github.com/Thiago-Cavaliere/Game-RPG",
+  },
   // {
   //   titulo: "Portfólio Pessoal",
   //   video: "/videos/projeto6.mp4",
