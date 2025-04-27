@@ -79,12 +79,12 @@ const projetos = [
     descricao: "RPG de browser com React.",
     link: "https://github.com/Thiago-Cavaliere/Game-RPG",
   },
-  // {
-  //   titulo: "Portfólio Pessoal",
-  //   video: "/videos/projeto6.mp4",
-  //   descricao: "Meu portfólio com React e MUI.",
-  //   link: "https://github.com/Thiago-Cavaliere/PortfolioPessoal",
-  // },
+  {
+    titulo: "Ready to Shop (Loja de Roupas)",
+    video: "/Ready.mp4",
+    descricao: "Landing page de loja de roupas.",
+    link: "https://github.com/Thiago-Cavaliere/Shop-Sport",
+  },
   // {
   //   titulo: "Relógio Digital",
   //   video: "/videos/projeto7.mp4",
