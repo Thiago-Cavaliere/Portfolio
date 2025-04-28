@@ -18,7 +18,7 @@ import CloseIcon from "@mui/icons-material/Close";
 const certificateImages = [
   {
     id: 1,
-    src: "/certificados/aprendizagem personalizando sua rotina de estudos com chatgpt.png",
+    src: "/certificados/Curso de JavaScript e TypeScript do basico ao avançado_page-0001.jpg",
   },
   {
     id: 2,
@@ -101,6 +101,7 @@ const Sobre = () => {
               <button className="arrow prev" onClick={prevCertificate}>
                 &#8592;
               </button>
+
               <div className="carousel-window">
                 <div
                   className="carousel-track"
