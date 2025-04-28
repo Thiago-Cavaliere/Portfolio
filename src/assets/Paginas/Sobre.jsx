@@ -144,43 +144,15 @@ const Sobre = () => {
                 Sobre mim
               </Typography>
               <Typography variant="body1" textAlign="justify">
-                <p>
-                  <strong>
-                    Olá! Eu sou Thiago Cavaliére Moreira de Araújo
-                  </strong>
-                  , um <strong>desenvolvedor Full Stack</strong> apaixonado por
-                  transformar ideias em soluções inovadoras através da
-                  tecnologia. Com uma formação sólida em{" "}
-                  <strong>Sistemas para Internet</strong>, sou especializado
-                  tanto em <strong>front-end</strong> quanto em{" "}
-                  <strong>back-end</strong>, dominando tecnologias como{" "}
-                  <strong>Node.js</strong>, <strong>Express.js</strong>,{" "}
-                  <strong>MongoDB</strong> e <strong>React</strong>.
-                </p>
+              <p>Sou <strong>Thiago Cavaliére Moreira de Araújo</strong>, um <strong>desenvolvedor Full Stack</strong> com uma sólida formação em <strong>Sistemas para Internet</strong> e uma profunda paixão por criar soluções tecnológicas inovadoras e eficientes. Ao longo da minha trajetória, adquiri experiência tanto no <strong>desenvolvimento front-end</strong> quanto <strong>back-end</strong>, dominando tecnologias como <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong> e <strong>React</strong>.</p>
 
-                <p>
-                  Meu foco é criar experiências digitais envolventes e
-                  eficientes, seja otimizando o servidor ou desenhando
-                  interfaces fluídas e intuitivas para os usuários. Minha
-                  jornada não é só sobre código: estou em constante evolução,
-                  buscando sempre aprender novas técnicas e explorar as últimas
-                  tendências da tecnologia.
-                </p>
+<p>Meu foco está em gerar <strong>impacto real</strong> através da criação de <strong>experiências digitais de alta performance</strong>, que atendem às necessidades dos usuários e superam as expectativas. Com um forte compromisso com a <strong>qualidade do código</strong> e o <strong>desempenho de sistemas</strong>, estou sempre em busca de novas abordagens para melhorar a experiência do usuário e a eficiência das soluções que desenvolvo.</p>
 
-                <p>
-                  Além da programação, sou dedicado à <strong>academia</strong>,
-                  onde encontro equilíbrio entre a mente e o corpo, o que me dá
-                  a energia e a disciplina para encarar os maiores desafios
-                  profissionais.
-                </p>
+<p>Atualmente, estou ampliando meus conhecimentos com uma <strong>pós-graduação em Arquitetura de Software</strong>, o que me permite trabalhar com sistemas mais robustos e complexos, e me preparará ainda mais para desafios de alta responsabilidade. Meu objetivo é continuar a evoluir como profissional, aplicando as melhores práticas de desenvolvimento e arquitetura de software em todas as minhas atividades.</p>
 
-                <p>
-                  Estou sempre em busca de novos <strong>desafios</strong>,
-                  pronto para aplicar minhas habilidades e colaborar com equipes
-                  inovadoras para criar soluções digitais impactantes. Se você
-                  procura um desenvolvedor comprometido, criativo e pronto para
-                  entregar resultados de qualidade, vamos conversar!
-                </p>
+<p>Além do meu trabalho como desenvolvedor, sou uma pessoa disciplinada e focada, com forte dedicação à <strong>academia</strong>, onde encontro o equilíbrio necessário para manter minha saúde física e mental. Esse equilíbrio se reflete diretamente no meu desempenho profissional, me permitindo sempre estar pronto para enfrentar novos desafios e contribuir com soluções de alto nível.</p>
+
+<p>Se você está buscando um <strong>profissional comprometido</strong>, com uma abordagem orientada a resultados e uma forte capacidade de resolver problemas complexos, estou pronto para contribuir e agregar valor à sua equipe. Vamos conversar!</p>
               </Typography>
             </Box>
           </Grid>
