@@ -64,7 +64,7 @@ function Pagina() {
 
   useEffect(() => {
     const typed = new Typed(typedElement.current, {
-      strings: ["&lt;Desenvolvedor Full Stack /&gt;"],
+      strings: ["&lt;Desenvolvedor Front-end /&gt;"],
       typeSpeed: 100,
       backSpeed: 50,
       showCursor: true,
