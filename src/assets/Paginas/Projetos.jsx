@@ -76,7 +76,7 @@ const projetos = [
     titulo: "Calculadora IMC",
     video: "/IMC.mp4",
     descricao:
-      "Calculadora de Índice de massa corporal. Tecnologias Utilizadas: HTML/CSS/JS.",
+      "Calculadora de Índice de massa corporal. Tecnologias Utilizadas: HTML/CSS/JS e Tailwind.",
     link: "https://github.com/Thiago-Cavaliere/ProjetoIMC",
     link2: "https://projeto-imc-phi.vercel.app/",
   },
