@@ -49,48 +49,62 @@ const VideoProjetoStyled = styled("video")(() => ({
 // Lista com 8 projetos, cada um com seu vídeo local
 const projetos = [
   {
+    titulo: "Pokédex",
+    video: "/Pokedex.mp4",
+    descricao:
+      "Tecnologias Utilizadas: React+Vite/React-Router/Consumo de API.",
+    link: "https://github.com/Thiago-Cavaliere/Pokedex/",
+    link2: "https://pokedex-nine-lake.vercel.app/",
+  },
+  {
     titulo: "Conta de Banco Simples",
     video: "/10.04.2025_07.10.38_REC.mp4",
-    descricao: "Simulação básica de uma conta bancária.",
+    descricao:
+      "Simulação básica de uma conta bancária. Tecnologia Utilizadas: HTML/CSS/JS.",
     link: "https://github.com/Thiago-Cavaliere/ContaDeBancoSimples",
+    link2: "https://conta-de-banco-simples-zeta.vercel.app/",
   },
 
   {
     titulo: "Projeto GymPage (Página de Academia)",
     video: "/GymPage.mp4",
-    descricao: "Site de academia com React/Vite.",
+    descricao: "Site de academia. Tecnologia Utilizadas: React/Vite.",
     link: "https://github.com/Thiago-Cavaliere/GymPage",
+    link2: "https://gym-page-eight.vercel.app/",
   },
   {
     titulo: "Calculadora IMC",
     video: "/IMC.mp4",
-    descricao: "Calculadora de Índice de massa corporal.",
+    descricao:
+      "Calculadora de Índice de massa corporal. Tecnologias Utilizadas: HTML/CSS/JS.",
     link: "https://github.com/Thiago-Cavaliere/ProjetoIMC",
+    link2: "https://projeto-imc-phi.vercel.app/",
   },
   {
     titulo: "E-Commerce de um site de Moto",
     video: "/E-CommerceMotoreira.mp4",
-    descricao: "Site de vendas de peças de moto.",
+    descricao:
+      "Site de vendas de peças de moto. Tecnologias Utilizadas: HTML,CSS,JS e React+Vite.",
     link: "https://github.com/Thiago-Cavaliere/E-Commece-Motoreira",
+    link2: "https://e-commece-motoreira.vercel.app/",
   },
   {
     titulo: "Jogo de Browser (RPG)",
     video: "/RPG.mp4",
-    descricao: "RPG de browser com React.",
+    descricao:
+      "RPG de browser com React. tecnologias Utilizadas: React+Vite React/Router.",
     link: "https://github.com/Thiago-Cavaliere/Game-RPG",
+    link2: "https://game-rpg-tau.vercel.app/",
   },
   {
     titulo: "Ready to Shop (Loja de Roupas)",
     video: "/Ready.mp4",
-    descricao: "Landing page de loja de roupas.",
+    descricao:
+      "Landing page de loja de roupas. tecnologias Utilizadas: HTML/CSS/JS/REACT.",
     link: "https://github.com/Thiago-Cavaliere/Shop-Sport",
+    link2: "https://shop-sport-rho.vercel.app/",
   },
-  // {
-  //   titulo: "Relógio Digital",
-  //   video: "/videos/projeto7.mp4",
-  //   descricao: "Relógio com hora e data em tempo real.",
-  //   link: "https://github.com/Thiago-Cavaliere/RelogioDigital",
-  // },
+
   // {
   //   titulo: "Formulário de Contato",
   //   video: "/videos/projeto8.mp4",
@@ -136,7 +150,16 @@ export default function Projetos() {
                     target="_blank"
                     sx={{ mt: 1 }}
                   >
-                    Ver Projeto
+                    Ver Projeto GitHub
+                  </Button>
+                  <Button
+                    variant="outlined"
+                    color="primary"
+                    href={projeto.link2}
+                    target="_blank"
+                    sx={{ mt: 1 }}
+                  >
+                    Link do projeto
                   </Button>
                 </div>
               </CardProjeto>
