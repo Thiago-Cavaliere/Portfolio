@@ -9,24 +9,51 @@ const NavBar = () => {
   }));
 
   return (
-    <AppBar position="fixed" sx={{ zIndex: 1201, boxShadow: "0 10px 20px rgba(57, 75, 180, 0.4)" }}>
+    <AppBar
+      position="fixed"
+      sx={{ zIndex: 1201, boxShadow: "0 10px 20px rgba(57, 75, 180, 0.4)" }}
+    >
       <StyledToolbar>
         {/* Links de navegação visíveis em todas as telas */}
         <div className="nav-links" style={{ display: "flex", gap: "20px" }}>
           <MenuItem>
-            <Link to="inicio" smooth={true} duration={500} style={{ color: "white", textDecoration: "none" }}>
+            <Link
+              to="inicio"
+              smooth={true}
+              duration={500}
+              style={{ color: "white", textDecoration: "none" }}
+            >
               Início
             </Link>
           </MenuItem>
           <MenuItem>
-            <Link to="sobre" smooth={true} duration={500} style={{ color: "white", textDecoration: "none" }}>
+            <Link
+              to="sobre"
+              smooth={true}
+              duration={500}
+              style={{ color: "white", textDecoration: "none" }}
+            >
               Sobre
             </Link>
           </MenuItem>
           <MenuItem>
-            <Link to="projetos" smooth={true} duration={500} style={{ color: "white", textDecoration: "none" }}>
+            <Link
+              to="projetos"
+              smooth={true}
+              duration={500}
+              style={{ color: "white", textDecoration: "none" }}
+            >
               Projetos
             </Link>
+          </MenuItem>
+          <MenuItem>
+            <a
+              href="/Curriculum_Estagio.pdf" // Substitua pelo caminho real do seu arquivo PDF
+              download="Curriculo_Thiago_Cavaliere" // Nome do arquivo para o download
+              style={{ color: "white", textDecoration: "none" }}
+            >
+              Baixar CV
+            </a>
           </MenuItem>
         </div>
       </StyledToolbar>
