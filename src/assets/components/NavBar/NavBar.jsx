@@ -52,7 +52,7 @@ const NavBar = () => {
               download="Curriculo_Thiago_Cavaliere" // Nome do arquivo para o download
               style={{ color: "white", textDecoration: "none" }}
             >
-              Baixar CV
+              Download do CV
             </a>
           </MenuItem>
         </div>

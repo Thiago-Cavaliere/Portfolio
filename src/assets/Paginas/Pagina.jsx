@@ -102,7 +102,7 @@ function Pagina() {
               >
                 <GitHubIcon sx={{ fontSize: 40 }} />
               </StyledLink>
-              <StyledLink href="https://wa.me/5532991331252" target="_blank">
+              <StyledLink href="https://wa.me/5532999691252" target="_blank">
                 <WhatsAppIcon sx={{ fontSize: 40, color: "#25D366" }} />
               </StyledLink>
               <StyledLink
