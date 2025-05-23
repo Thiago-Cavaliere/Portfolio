@@ -144,7 +144,47 @@ const Sobre = () => {
                 Sobre mim
               </Typography>
               <Typography variant="body1" textAlign="justify">
-              <p>Meu nome é <strong>Thiago Cavaliére Moreira de Araújo</strong>, desenvolvedor Full Stack movido por propósito, inovação e resultados. Sou formado em <strong>Sistemas para Internet</strong> e possuo uma base técnica sólida, com domínio de tecnologias como <strong>React, Node.js, Express.js</strong> e <strong>MongoDB</strong>, entregando soluções que não apenas funcionam — mas impressionam.</p> <p>Minha missão é transformar ideias em experiências digitais de <strong>alta performance</strong>, com foco total no usuário, na escalabilidade e na excelência técnica. Atuo com fluidez entre <strong>front-end</strong> e <strong>back-end</strong>, desenvolvendo sistemas robustos, ágeis e prontos para evoluir.</p> <p>Atualmente, estou me especializando em <strong>Arquitetura de Software</strong>, aprofundando meus conhecimentos no desenvolvimento de sistemas complexos, onde qualidade de código, estrutura arquitetural e performance caminham lado a lado. Essa formação me capacita para liderar projetos com visão estratégica e técnica.</p> <p>Mas meu diferencial vai além da programação. Sou <strong>disciplinado</strong> e <strong>resiliente</strong>, encontrando na <strong>academia</strong> o equilíbrio entre corpo e mente — uma rotina que reforça minha produtividade, foco e capacidade de resolver problemas com clareza e eficiência.</p> <p>Se você busca um profissional <strong>comprometido</strong>, <strong>versátil</strong> e <strong>orientado a resultados reais</strong>, estou pronto para gerar valor e fazer a diferença. <strong>Vamos transformar desafios em conquistas?</strong> Estou à disposição para conversar.</p>
+                <p>
+                  Meu nome é <strong>Thiago Cavaliére Moreira de Araújo</strong>
+                  , desenvolvedor Front-end movido por propósito, inovação e
+                  resultados. Sou formado em{" "}
+                  <strong>Sistemas para Internet</strong> e atualmente estou
+                  cursando <strong>Arquitetura de Software</strong>. Possuo uma
+                  base técnica sólida, com domínio de tecnologias como{" "}
+                  <strong>React, Vite, Next.js</strong>, entregando soluções que
+                  não apenas funcionam — mas impressionam.
+                </p>
+                <p>
+                  Minha missão é transformar ideias em experiências digitais de{" "}
+                  <strong>alta performance</strong>, com foco total no usuário,
+                  na escalabilidade e na excelência técnica. Atuo exclusivamente
+                  no <strong>front-end</strong>, desenvolvendo interfaces
+                  responsivas, modernas e acessíveis.
+                </p>
+                <p>
+                  Atualmente, estou me especializando em{" "}
+                  <strong>Arquitetura de Software</strong>, aprofundando meus
+                  conhecimentos no desenvolvimento de sistemas complexos, onde
+                  qualidade de código, estrutura arquitetural e performance
+                  caminham lado a lado. Essa formação me capacita para liderar
+                  projetos com visão estratégica e técnica.
+                </p>
+                <p>
+                  Mas meu diferencial vai além da programação. Sou{" "}
+                  <strong>disciplinado</strong> e <strong>resiliente</strong>,
+                  encontrando na <strong>academia</strong> o equilíbrio entre
+                  corpo e mente — uma rotina que reforça minha produtividade,
+                  foco e capacidade de resolver problemas com clareza e
+                  eficiência.
+                </p>
+                <p>
+                  Se você busca um profissional <strong>comprometido</strong>,{" "}
+                  <strong>versátil</strong> e{" "}
+                  <strong>orientado a resultados reais</strong>, estou pronto
+                  para gerar valor e fazer a diferença.{" "}
+                  <strong>Vamos transformar desafios em conquistas?</strong>{" "}
+                  Estou à disposição para conversar.
+                </p>
               </Typography>
             </Box>
           </Grid>

@@ -48,8 +48,8 @@ const NavBar = () => {
           </MenuItem>
           <MenuItem>
             <a
-              href="/Curriculum_Estagio.pdf" // Substitua pelo caminho real do seu arquivo PDF
-              download="Curriculo_Thiago_Cavaliere" // Nome do arquivo para o download
+              href="/Curriculum_Estagio.pdf"
+              download="Curriculo_Thiago_Cavaliere"
               style={{ color: "white", textDecoration: "none" }}
             >
               Download do CV
