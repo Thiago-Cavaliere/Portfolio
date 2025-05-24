@@ -146,36 +146,34 @@ const Sobre = () => {
               <Typography variant="body1" textAlign="justify">
                 <p>
                   Meu nome é <strong>Thiago Cavaliére Moreira de Araújo</strong>
-                  , desenvolvedor Front-end movido por propósito, inovação e
-                  resultados. Sou formado em{" "}
-                  <strong>Sistemas para Internet</strong> e atualmente estou
-                  cursando <strong>Arquitetura de Software</strong>. Possuo uma
-                  base técnica sólida, com domínio de tecnologias como{" "}
-                  <strong>React, Vite, Next.js</strong>, entregando soluções que
-                  não apenas funcionam — mas impressionam.
+                  , sou desenvolvedor Front-end movido por propósito, inovação e
+                  resultados. Formado em <strong>Sistemas para Internet</strong>{" "}
+                  e atualmente cursando pós-graduação em{" "}
+                  <strong>Arquitetura de Software</strong>, construí uma base
+                  técnica sólida com domínio de tecnologias como{" "}
+                  <strong>JavaScript, React, Vite e Next.js</strong>.
                 </p>
                 <p>
                   Minha missão é transformar ideias em experiências digitais de{" "}
-                  <strong>alta performance</strong>, com foco total no usuário,
-                  na escalabilidade e na excelência técnica. Atuo exclusivamente
-                  no <strong>front-end</strong>, desenvolvendo interfaces
-                  responsivas, modernas e acessíveis.
+                  <strong>alta performance</strong>, com foco no usuário, na
+                  escalabilidade e na excelência técnica. Atuo exclusivamente no{" "}
+                  <strong>front-end</strong>, desenvolvendo interfaces modernas,
+                  responsivas e acessíveis.
                 </p>
                 <p>
-                  Atualmente, estou me especializando em{" "}
-                  <strong>Arquitetura de Software</strong>, aprofundando meus
-                  conhecimentos no desenvolvimento de sistemas complexos, onde
-                  qualidade de código, estrutura arquitetural e performance
-                  caminham lado a lado. Essa formação me capacita para liderar
-                  projetos com visão estratégica e técnica.
+                  Estou me especializando em{" "}
+                  <strong>Arquitetura de Software</strong> para aprofundar meus
+                  conhecimentos no desenvolvimento de sistemas complexos, unindo
+                  qualidade de código, estrutura arquitetural e performance.
+                  Essa formação me prepara para liderar projetos com uma visão
+                  estratégica e técnica.
                 </p>
                 <p>
-                  Mas meu diferencial vai além da programação. Sou{" "}
-                  <strong>disciplinado</strong> e <strong>resiliente</strong>,
-                  encontrando na <strong>academia</strong> o equilíbrio entre
-                  corpo e mente — uma rotina que reforça minha produtividade,
-                  foco e capacidade de resolver problemas com clareza e
-                  eficiência.
+                  Meu diferencial vai além do código: sou{" "}
+                  <strong>disciplinado</strong> e <strong>resiliente</strong>.
+                  Encontro na rotina de treinos na <strong>academia</strong> o
+                  equilíbrio entre corpo e mente uma prática que reforça meu
+                  foco, produtividade e clareza na resolução de problemas.
                 </p>
                 <p>
                   Se você busca um profissional <strong>comprometido</strong>,{" "}
